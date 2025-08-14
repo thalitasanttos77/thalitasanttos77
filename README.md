@@ -1,6 +1,10 @@
-# 💫 About Me:
-🔭 Estou aprimorando e desenvolvendo automações de processos, utilizando Python e Django para criar soluções que otimizam o tempo e aumentam a eficiência.<br><br>👯Gostaria de colaborar para aplicações web construídas com Django/Angular, onde eu possa contribuir.<br><br>🤝 Seria interessante entender mais a fundo sobre arquitetura de software e boas práticas de deploy (CI/CD) para escalar minhas aplicações.<br><br>🌱 Estou aprendendo conceitos de Message Queues (como RabbitMQ e Celery) para criar automações assíncronas e mais eficientes.<br><br>💬 Pode me perguntar sobre automação de tarefas repetitivas com Python e como criar aplicações web fullstack com Django.<br><br>⚡ Acredito que o descanso é capaz de resolver problemas.<br>
-
+💫 About Me:
+🔭 I'm currently focused on building and refining process automations with Python and Django, creating solutions that save time and boost efficiency.<br><br>
+👯 I'm looking to collaborate on web applications built with Django and Angular.<br><br>
+🤝 I'm hoping to learn more about software architecture and CI/CD best practices for scaling applications.<br><br>
+🌱 I'm currently learning how to use Message Queues (like RabbitMQ and Celery) to build more efficient, asynchronous automations.<br><br>
+💬 Ask me about automating repetitive tasks with Python or how to get started with full-stack Django apps.<br><br>
+⚡ Fun fact: I believe that stepping away from the keyboard is the best debugging tool.<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thalitasanttos77@gmail.com) 
