@@ -1,5 +1,4 @@
 ## 💫 About Me:
-<br><br>
 🔭 I'm currently focused on building and refining process automations with Python and Django, creating solutions that save time and boost efficiency.<br><br>
 👯 I'm looking to collaborate on web applications built with Django and Angular.<br><br>
 🤝 I'm hoping to learn more about software architecture and CI/CD best practices for scaling applications.<br><br>
