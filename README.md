@@ -17,7 +17,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=thalitasanttos77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thalitasanttos77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=thalitasanttos77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
