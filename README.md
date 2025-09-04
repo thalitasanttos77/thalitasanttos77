@@ -3,7 +3,7 @@
 👯 I'm looking to collaborate on web applications built with Django and Angular.<br><br>
 🤝 I'm hoping to learn more about software architecture and CI/CD best practices for scaling applications.<br><br>
 🌱 I'm currently learning how to use Message Queues (like RabbitMQ and Celery) to build more efficient, asynchronous automations.<br><br>
-💬 Ask me about automating repetitive tasks with Python or how to get started with full-stack Django apps.<br><br>
+💬 Ask me about how to get started with full-stack Django apps.<br><br>
 ⚡ Fun fact: I believe that stepping away from the keyboard is the best debugging tool.<br>
 
 ## 🌐 Socials:
