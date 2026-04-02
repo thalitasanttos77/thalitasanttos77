@@ -15,11 +15,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=thalitasanttos77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=thalitasanttos77&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thalitasanttos77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=thalitasanttos77&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=thalitasanttos77&icon=0&color=0)](https://visitcount.itsvg.in)
